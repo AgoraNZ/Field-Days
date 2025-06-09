@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Widget</title>
+</head>
+<body>
+    <script src="https://wxblox.aerisapi.com/free/js/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZ1bGwtd2lkZSIsImxvYyI6InB3c19yb2RuZXkiLCJtZXRyaWMiOnRydWUsInRoZW1lIjoiZGFyayIsImNvbG9ycyI6eyJiYXNlIjp7fSwiYWx0Ijp7fSwiYWNjZW50Ijp7fX0sImlhdCI6MTc0OTQyOTM5OH0.GfRXPoHnFszyr7OMBScHNONdtLItPlF1UOJD7zp08Ws"></script>
+	
+</body>
+</html>
